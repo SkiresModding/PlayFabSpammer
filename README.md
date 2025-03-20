@@ -1,19 +1,5 @@
 # PlayFabSpammer
 
-This is my custom playfab spammer i was bored do not skid this, This was made by me / Skire so yea give credits if you give this someone,
+Hello this is my custom playfab spammer i made its not the best but its something i hope you enjoy my playfab spammer this was made by me/skire download the file and read the "READ ME" for instructions i hope this is helpful have a great day
 
-Features
-
-Easy to use ui in console
-
-
-Donating to If0n's projects
-
-
-Tether (Solana) 8bsYncMLMZXdfVg4cK3SW5SW5btzpxoUonDkNXMccjLS
-
-Eth 0x679BBb67Bb77e1B6b724429fb900fE1Dc4063105
-
-Solana 8bsYncMLMZXdfVg4cK3SW5SW5btzpxoUonDkNXMccjLS
-
-Bnb 0x679BBb67Bb77e1B6b724429fb900fE1Dc4063105
+Made by Skire
